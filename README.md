@@ -1,2 +1,2 @@
-# Ejercicio_Kt_1
+# Ejercicio_Kt_2
 Ejejrcicios de Kotlin.
